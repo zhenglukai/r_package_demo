@@ -15,9 +15,10 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 
-[![r-cmd-check](../../workflows/r-cmd-check/badge.svg)](actions/workflows/r-cmd-check.yml)
+[![r-cmd-check](../../workflows/r-cmd-check/badge.svg)](../../actions/workflows/r-cmd-check.yml)
 
 <!-- badges: end -->
+(Note: you will need to put in absolute paths if you want this to work with pkgdown!)
 
 ## What is <package name>?
 
