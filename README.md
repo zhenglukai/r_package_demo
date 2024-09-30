@@ -1,7 +1,7 @@
 
 <!-- Please do not edit README.md, but edit README.Rmd instead. -->
 
-# <package name>
+# zhengtst
 
 <!-- badges: start -->
 
@@ -9,14 +9,14 @@
 
 <!-- badges: end -->
 
-## What is `zheng_tst`?
+## What is `zhengtst`?
 
-`zheng_tst` is a demo package for coding practice.
+`zhengtst` is a demo package for coding practice.
 
 ## Installation
 
 To install this packge (you sure?), run
-`devtools::install_github('zhenglukai/zheng_tst')`.
+`devtools::install_github('zhenglukai/zhengtst')`.
 
 ## Examples
 

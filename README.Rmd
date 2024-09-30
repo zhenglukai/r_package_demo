@@ -25,7 +25,7 @@ knitr::opts_chunk$set(
 
 ## Installation
 
-To install this packge (you sure?), run `devtools::install_github('zhenglukai/zheng_tst')`.
+To install this packge (you sure?), run `devtools::install_github('zhenglukai/zhengtst')`.
 
 ## Examples
 
