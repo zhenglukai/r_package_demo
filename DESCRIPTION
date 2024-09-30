@@ -1,21 +1,21 @@
-Package: <package name>
-Title: <title>
+Package: zhengtst
+Title: A test package
 Version: 0.0.1
 Authors@R: c(
-  person(given = ..., family = ..., role = c("aut", "cre"), email = ...)
+  person("Lukai", "Zheng", , "zheng.lukai@campus.lmu.de", c("aut", "cre"))
   )
-Description: <description>
-License: ...
-URL: ...
-BugReports: ...
+Description: Just a test package.
+License: GPL-3
+URL: NULL
+BugReports: https://github.com/zhenglukai/zhengtst/issues
 ByteCompile: true
 Encoding: UTF-8
 Config/testthat/edition: 3
 Config/testthat/parallel: true
 Roxygen: list(markdown = TRUE)
 Depends:
-    ...
 Imports:
-    ...
+    checkmate
 Suggests:
     testthat
+RoxygenNote: 7.3.1

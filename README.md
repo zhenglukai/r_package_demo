@@ -9,12 +9,14 @@
 
 <!-- badges: end -->
 
-(Note: you will need to put in absolute paths if you want this to work
-with pkgdown!)
+## What is `zheng_tst`?
 
-## What is <package name>?
+`zheng_tst` is a demo package for coding practice.
 
 ## Installation
+
+To install this packge (you sure?), run
+`devtools::install_github('zhenglukai/zheng_tst')`.
 
 ## Examples
 

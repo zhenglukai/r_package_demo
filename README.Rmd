@@ -11,18 +11,21 @@ knitr::opts_chunk$set(
 )
 ```
 
-# <package name>
+# zhengtst
 
 <!-- badges: start -->
 
 [![r-cmd-check](../../workflows/r-cmd-check/badge.svg)](../../actions/workflows/r-cmd-check.yml)
 
 <!-- badges: end -->
-(Note: you will need to put in absolute paths if you want this to work with pkgdown!)
 
-## What is <package name>?
+## What is `zhengtst`?
+
+`zhengtst` is a demo package for coding practice.
 
 ## Installation
+
+To install this packge (you sure?), run `devtools::install_github('zhenglukai/zheng_tst')`.
 
 ## Examples
 
